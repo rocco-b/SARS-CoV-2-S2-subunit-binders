@@ -1,0 +1,5 @@
+molecule_id,cnn_pose_score,cnn_affinity,cnn_vs,drug,indication
+1830,0.8259,7.692,6.3528,Ripretinib,Advanced gastrointestinal stromal tumor
+1864,0.9394,7.342,6.8971,Fumagillin,Intestinal microsporidiosis diarrhea
+2168,0.8812,7.984,7.0355,Afoxolaner,Veterinary insecticide and acaricide
+2195,0.8751,8.003,7.0034,Dexamethasone palmitate,Anti-inflammatory and immunosuppressant

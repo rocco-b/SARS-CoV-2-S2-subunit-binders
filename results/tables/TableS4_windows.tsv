@@ -1,0 +1,16 @@
+Window (ns)	Replicates included	System	n	Mean D (Å), mean ± SD	Mean D (Å), replicate range	Mean extension D − D(0) (Å), mean ± SD	Mean extension (Å), replicate range
+0–25	all replicates	apo-like	3	82.4 ± 0.7	81.7–83.1	16.6 ± 4.5	11.5–19.6
+0–25	all replicates	ripretinib (1830)	3	81.3 ± 5.0	75.6–84.7	10.0 ± 4.0	5.7–13.6
+0–25	all replicates	fumagillin (1864)	3	77.0 ± 2.5	74.2–78.9	12.9 ± 2.1	11.3–15.3
+0–25	replicates without image contacts (< 8 Å) before 25 ns	apo-like	3	82.4 ± 0.7	81.7–83.1	16.6 ± 4.5	11.5–19.6
+0–25	replicates without image contacts (< 8 Å) before 25 ns	ripretinib (1830)	2	79.6 ± 5.6	75.6–83.6	9.6 ± 5.6	5.7–13.6
+0–25	replicates without image contacts (< 8 Å) before 25 ns	fumagillin (1864)	3	77.0 ± 2.5	74.2–78.9	12.9 ± 2.1	11.3–15.3
+0–50	all replicates	apo-like	3	83.7 ± 1.2	82.4–84.6	18.0 ± 5.1	12.5–22.6
+0–50	all replicates	ripretinib (1830)	3	82.6 ± 3.3	80.1–86.4	11.3 ± 1.2	10.1–12.5
+0–50	all replicates	fumagillin (1864)	3	79.1 ± 2.0	77.0–80.9	15.0 ± 0.8	14.3–15.9
+0–50	replicates without image contacts before 50 ns	apo-like	2	83.5 ± 1.6	82.4–84.6	20.7 ± 2.6	18.9–22.6
+0–50	replicates without image contacts before 50 ns	ripretinib (1830)	2	80.7 ± 0.9	80.1–81.3	10.7 ± 0.9	10.1–11.3
+0–50	replicates without image contacts before 50 ns	fumagillin (1864)	1	77.0	77.0	14.9	14.9
+0–100	all replicates (five of nine with image contacts before 100 ns)	apo-like	3	86.2 ± 0.8	85.2–86.7	20.4 ± 6.0	13.6–24.6
+0–100	all replicates (five of nine with image contacts before 100 ns)	ripretinib (1830)	3	85.3 ± 4.1	81.4–89.6	14.0 ± 2.4	11.3–15.7
+0–100	all replicates (five of nine with image contacts before 100 ns)	fumagillin (1864)	3	84.3 ± 4.2	81.9–89.2	20.2 ± 2.2	18.3–22.6

@@ -1,0 +1,12 @@
+records docked: 2342
+records failing default RDKit sanitization: 68
+InChIKey groups with more than one record: 36 | records in these groups: 74 | redundant records: 38
+unique valid structures (InChIKey): 2236
+primary hits among invalid or duplicated records: []
+ligand 1830 (ripretinib) in the docking input: C24H21BrFN5O2, net charge +0
+ligand 1864 (fumagillin) in the docking input: C26H33O7-, net charge -1
+ligand 2168 (afoxolaner) in the docking input: C26H17ClF9N3O3, net charge +0
+ligand 2195 (dexamethasone palmitate) in the docking input: C38H59FO6, net charge +0
+ligand 2006 (odanacatib (excluded)) in the docking input: C25H28F4N3O3S+, net charge +1
+C-alpha atoms compared: 1017 | C-alpha RMSD trimer: 0.25 A
+pocket residues (n=16) C-alpha RMSD after chain-A superposition: 0.48 A (maximum 0.94 A)

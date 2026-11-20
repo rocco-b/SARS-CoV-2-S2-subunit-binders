@@ -1,0 +1,10 @@
+System	Snapshot (ns)	Cell X (Å)	Cell Y (Å)	Cell Z (Å)	Frames	Frames with non-physical Coulomb energy	Cell volume change, first ns (%)	Energy change, 1–10 ns vs 90–100 ns (%)	Minimum distance between protein and periodic images (Å)	Frames (1 ns) with this distance < 8 Å	First such frame (ns)
+apo-like	250	81.7	200.0	53.5	400	44	-0.3	-0.10	7.3	1/100	65
+apo-like	275	60.8	200.0	63.4	400	1	0.4	-0.14	10.2	0/100	–
+apo-like	300	70.7	200.0	47.7	401	68	-0.0	0.30	2.8	41/101	36
+ripretinib (1830)	250	66.1	200.0	50.8	400	32	0.0	-0.14	9.4	0/100	–
+ripretinib (1830)	275	66.0	200.0	52.2	400	1	0.6	-0.19	3.5	28/100	5
+ripretinib (1830)	300	69.4	200.0	55.0	400	82	0.3	-0.03	9.0	0/100	–
+fumagillin (1864)	250	60.5	200.0	78.7	400	4	0.2	-0.05	3.3	26/100	48
+fumagillin (1864)	275	65.9	200.0	58.8	400	13	0.0	-0.07	6.0	2/100	45
+fumagillin (1864)	300	57.0	200.0	75.7	400	25	-2.7	-0.16	9.4	0/100	–

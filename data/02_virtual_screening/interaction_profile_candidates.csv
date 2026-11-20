@@ -1,0 +1,5 @@
+molecule_id,drug,hydrogen_bonds,hydrophobic_interactions,aromatic_interactions
+1830,Ripretinib,"Gln111, Thr251","Val250, Met235, Met87, Phe112, Ala109, Leu101","Phe83, Tyr252"
+1864,Fumagillin,"Gln105, Ala84, Phe112, Thr251","Phe83, Leu101, Met87, Tyr252, Ile108, Leu107, Phe294",-
+2168,Afoxolaner,"Phe247, His249, Ala109, Ile108, Met235","Ala115, Val250, Met87, Phe112, Phe83, Leu101, Ile108",-
+2195,Dexamethasone palmitate,"Gln111, Tyr252, Val253","Phe294, Tyr252, Ile108, Val250, Met87, Leu101, Phe83, Phe112, Ala109, Ala115",-

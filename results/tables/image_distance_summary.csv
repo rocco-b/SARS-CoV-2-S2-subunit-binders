@@ -1,0 +1,10 @@
+system,snapshot,min_image_dist_A,frames_image_lt8,frames_image,first_image_contact_ns
+apo,250,7.3,1,100,65.0
+apo,275,10.17,0,100,inf
+apo,300,2.79,41,101,36.0
+1830lig,250,9.41,0,100,inf
+1830lig,275,3.52,28,100,5.0
+1830lig,300,9.04,0,100,inf
+1864lig,250,3.26,26,100,48.0
+1864lig,275,6.03,2,100,45.0
+1864lig,300,9.4,0,100,inf

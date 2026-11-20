@@ -1,0 +1,160 @@
+{
+  "systems": {
+    "apo": {
+      "label": "apo-like",
+      "code": "-",
+      "color": "#4d4d4d",
+      "linestyle": "--",
+      "has_ligand": false
+    },
+    "1830lig": {
+      "label": "ripretinib (1830)",
+      "code": "1830",
+      "color": "#1f78b4",
+      "linestyle": "-",
+      "has_ligand": true
+    },
+    "1864lig": {
+      "label": "fumagillin (1864)",
+      "code": "1864",
+      "color": "#d95f02",
+      "linestyle": "-",
+      "has_ligand": true
+    }
+  },
+  "pocket": {
+    "residues": [
+      [
+        83,
+        "Phe"
+      ],
+      [
+        84,
+        "Ala"
+      ],
+      [
+        87,
+        "Met"
+      ],
+      [
+        101,
+        "Leu"
+      ],
+      [
+        105,
+        "Gln"
+      ],
+      [
+        107,
+        "Leu"
+      ],
+      [
+        108,
+        "Ile"
+      ],
+      [
+        109,
+        "Ala"
+      ],
+      [
+        111,
+        "Gln"
+      ],
+      [
+        112,
+        "Phe"
+      ],
+      [
+        235,
+        "Met"
+      ],
+      [
+        250,
+        "Val"
+      ],
+      [
+        251,
+        "Thr"
+      ],
+      [
+        252,
+        "Tyr"
+      ],
+      [
+        255,
+        "Ala"
+      ],
+      [
+        294,
+        "Phe"
+      ]
+    ],
+    "numbering_offset": 815,
+    "bound_chain": "A",
+    "free_chains": [
+      "B",
+      "C"
+    ]
+  },
+  "md": {
+    "data_dir": "data/03_classical_md/analysis_tables",
+    "systems": [
+      "apo",
+      "1830lig",
+      "1864lig"
+    ],
+    "windows_ns": {
+      "apo": [
+        200,
+        300
+      ],
+      "1830lig": [
+        100,
+        300
+      ],
+      "1864lig": [
+        160,
+        300
+      ],
+      "2006lig": [
+        200,
+        300
+      ]
+    },
+    "duration_ns": 300,
+    "plateau_threshold_A": 1.0,
+    "rolling_frames": 21
+  },
+  "smd_mechanics": {
+    "data_dir": "data/04_steered_md/analysis_tables",
+    "systems": [
+      "apo",
+      "1830lig",
+      "1864lig"
+    ],
+    "replicates": [
+      {
+        "id": "250ns",
+        "label": "from 250 ns snapshot",
+        "linestyle": ":"
+      },
+      {
+        "id": "275ns",
+        "label": "from 275 ns snapshot",
+        "linestyle": "--"
+      },
+      {
+        "id": "300ns",
+        "label": "from 300 ns snapshot",
+        "linestyle": "-"
+      }
+    ],
+    "force_law": "absolute",
+    "ncdist_column": "NCdist_A",
+    "bondforce_const_kJ_mol_nm2": 5.0,
+    "accmax_pm_ps2": 0,
+    "pull_duration_ns": 100,
+    "rolling_frames": 9
+  },
+  "_note": "Parameters read by the utility scripts in scripts/classical_md_utilities (stability of the classical MD, force/work of the SMD). The scripts expect the authors workspace layout papers/<slug>/ (see README)."
+}
