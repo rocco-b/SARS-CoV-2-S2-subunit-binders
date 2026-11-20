@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+*.bak
+
+# Trajectories are hosted on Zenodo (see README); do not commit them
+data/03_classical_md/trajectories/*.xtc
+data/04_steered_md/trajectories/*.xtc
+data/*/trajectories/*.sce
+data/*/trajectories/*.pdb

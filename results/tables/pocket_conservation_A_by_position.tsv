@@ -1,0 +1,17 @@
+Pocket residue (Spike)	Model residue	All sequences: % with a substitution (most frequent)	Highest frequency in a lineage (lineage, substitution)	Lineages with a substitution in >= 0.1% of the sequences (of 15)
+Phe898	Phe83	<0.005%	<0.005%	0
+Ala899	Ala84	0.041% (A899S)	3.063% (Beta, A899S)	2
+Met902	Met87	<0.005%	<0.005%	0
+Leu916	Leu101	<0.005%	<0.005%	0
+Gln920	Gln105	<0.005%	<0.005%	0
+Leu922	Leu107	0.030% (L922F)	0.438% (XFG, L922F)	1
+Ile923	Ile108	<0.005%	<0.005%	0
+Ala924	Ala109	0.017% (A924S)	0.047% (Delta, A924S)	0
+Gln926	Gln111	<0.005%	0.009% (Beta, Q926*)	0
+Phe927	Phe112	<0.005%	<0.005%	0
+Met1050	Met235	0.011% (M1050I)	0.036% (Beta, M1050T)	0
+Val1065	Val250	0.007% (V1065L)	0.027% (Beta, V1065L)	0
+Thr1066	Thr251	<0.005%	0.022% (Alpha, T1066N)	0
+Tyr1067	Tyr252	<0.005%	0.009% (Beta, Y1067-)	0
+Ala1070	Ala255	0.089% (A1070V)	0.222% (NB.1.8.1, A1070S)	4
+Phe1109	Phe294	<0.005%	<0.005%	0

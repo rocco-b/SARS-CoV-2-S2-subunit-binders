@@ -1,0 +1,46 @@
+queried on 2026-11-20; LAPIS 0.9.1; dataVersion 1795172405; sars_cov-2_nextstrain_open on lapis.cov-spectrum.org at 2026-11-20T17:07:22.357099078; minProportion 5e-05
+
+== (1) SARS-CoV-2 lineages: substitutions at the 16 pocket positions ==
+Alpha             701,122 sequences; A899S 0.006% (41/659254); L922F 0.030% (196/659009); M1050I 0.013% (85/668027); V1065L 0.006% (42/669613); T1066A 0.006% (38/669874); T1066N 0.017% (111/669874); A1070S 0.014% (93/669351); A1070V 0.023% (155/669351)
+Beta               11,698 sequences; A899S 3.063% (330/10774); Q926* 0.009% (1/10775); M1050- 0.009% (1/10965); M1050I 0.009% (1/10965); M1050T 0.018% (2/10965); V1065- 0.009% (1/10968); V1065L 0.018% (2/10968); T1066- 0.009% (1/10968); Y1067- 0.009% (1/10968); A1070- 0.009% (1/10961); A1070S 0.036% (4/10961); A1070V 0.027% (3/10961)
+Gamma              32,634 sequences; M1050I 0.006% (2/32003); T1066N 0.009% (3/32112); A1070S 0.009% (3/32093); A1070T 0.009% (3/32093); A1070V 0.012% (4/32093)
+Delta           3,079,188 sequences; A899S 0.038% (1167/3038954); L922F 0.038% (1167/3034920); A924S 0.041% (1234/3034743); A924V 0.006% (194/3034743); M1050I 0.014% (434/3038921); V1065L 0.009% (282/3049624); A1070S 0.067% (2033/3048532); A1070T 0.006% (183/3048532); A1070V 0.043% (1315/3048532)
+Omicron BA.1    1,664,850 sequences; A899S 0.010% (164/1639856); L922F 0.008% (128/1639216); A924S 0.005% (82/1638877); A1070S 0.005% (89/1643564); A1070V 0.019% (320/1643564)
+Omicron BA.2    1,662,206 sequences; A899S 0.009% (146/1631437); L922F 0.035% (574/1630931); M1050I 0.012% (196/1645418); A1070S 0.007% (119/1645394); A1070T 0.006% (105/1645394); A1070V 0.022% (355/1645394)
+Omicron BA.5    1,032,646 sequences; L922F 0.028% (277/1000099); L922V 0.007% (69/1000099); M1050I 0.006% (59/1004110); V1065L 0.009% (89/1004489); T1066N 0.005% (55/1004853); A1070S 0.012% (124/1003430); A1070T 0.009% (94/1003430); A1070V 0.135% (1353/1003430)
+XBB.1.5           179,576 sequences; A899S 0.008% (14/176837); L922F 0.015% (27/175781); M1050I 0.007% (12/178212); M1050L 0.006% (10/178212); V1065A 0.009% (16/178191); T1066A 0.011% (20/178261); A1070S 0.022% (39/178106); A1070T 0.018% (32/178106); A1070V 0.026% (47/178106)
+BA.2.86           223,256 sequences; A899S 0.050% (102/204617); L922F 0.024% (50/204712); M1050I 0.007% (15/217685); T1066N 0.006% (14/217459); A1070S 0.010% (22/217241); A1070V 0.023% (49/217241)
+JN.1              215,270 sequences; A899S 0.052% (102/197309); L922F 0.023% (46/197412); M1050I 0.007% (15/210043); T1066N 0.007% (14/209829); A1070S 0.009% (19/209612); A1070V 0.022% (46/209612)
+KP.3               60,207 sequences; A899S 0.116% (63/54194); L922F 0.020% (11/54271); A924S 0.007% (4/54249); A1070S 0.015% (9/58838); A1070V 0.017% (10/58838)
+XEC                19,581 sequences; A899S 0.017% (3/17506); L922F 0.017% (3/17558); A924S 0.011% (2/17541); A924V 0.011% (2/17541); M1050V 0.026% (5/19329); A1070S 0.010% (2/19284); A1070V 0.010% (2/19284)
+LP.8.1             15,194 sequences; A899S 0.065% (9/13770); L922M 0.014% (2/13795); M1050I 0.027% (4/14852); A1070S 0.007% (1/14789); A1070V 0.007% (1/14789)
+NB.1.8.1            9,739 sequences; A899S 0.057% (5/8739); L922F 0.023% (2/8761); L922S 0.023% (2/8761); A924S 0.011% (1/8749); M1050I 0.021% (2/9476); A1070E 0.011% (1/9449); A1070S 0.148% (14/9449); A1070T 0.011% (1/9449); A1070V 0.053% (5/9449)
+XFG                39,041 sequences; A899S 0.037% (13/34682); L922F 0.438% (152/34711); A924S 0.012% (4/34694); A924V 0.009% (3/34694); M1050I 0.008% (3/38154); A1070S 0.024% (9/38039); A1070T 0.045% (17/38039); A1070V 0.134% (51/38039)
+all sequences   9,446,228 sequences; A899S 0.041% (3819/9223732); L922F 0.030% (2728/9213354); A924S 0.017% (1545/9214206); M1050I 0.011% (1048/9281313); V1065L 0.007% (656/9297605); A1070S 0.036% (3301/9294246); A1070T 0.007% (674/9294246); A1070V 0.046% (4275/9294246)
+positions with a substitution in more than 0.1% of the sequences of any lineage listed: S:A1070S, S:A1070V, S:A899S, S:L922F
+largest proportion over all lineages (excluding "all sequences"): 3.06% (S:A899S in Beta)
+positions with any substitution in all sequences (>= 0.005%): 8 substitution types at positions [899, 922, 924, 1050, 1065, 1070]; invariant at the 0.005% level: Phe898, Met902, Leu916, Gln920, Ile923, Gln926, Phe927, Thr1066, Tyr1067, Phe1109
+
+== (2) Betacoronaviruses: FAMSA alignment of the full-length spikes ==
+SARS-CoV-2 (Wuhan-Hu-1)    identical 16/16, similar  0, different  0
+Bat RaTG13                 identical 16/16, similar  0, different  0
+Bat WIV1                   identical 14/16, similar  1, different  1
+Bat RsSHC014               identical 14/16, similar  1, different  1
+SARS-CoV                   identical 14/16, similar  1, different  1
+MERS-CoV                   identical 11/16, similar  4, different  1
+HCoV-HKU1 (N5)             identical  8/16, similar  5, different  3
+HCoV-OC43                  identical  8/16, similar  4, different  4
+                  Virus    UniProt  pocket_identity_pct  S2_816_1154_identity_pct  S2_outside_pocket_identity_pct  full_spike_identity_pct
+SARS-CoV-2 (Wuhan-Hu-1)     P0DTC2                100.0                     100.0                           100.0                    100.0
+             Bat RaTG13 A0ABF7PLN6                100.0                      99.7                            99.7                     97.4
+               Bat WIV1     U5WI05                 87.5                      90.9                            91.0                     76.9
+           Bat RsSHC014     U5WLK5                 87.5                      90.9                            91.0                     77.1
+               SARS-CoV     P59594                 87.5                      91.2                            91.3                     76.1
+               MERS-CoV     K9N5Q8                 68.8                      46.3                            45.2                     30.6
+         HCoV-HKU1 (N5)     Q0ZME7                 50.0                      45.1                            44.9                     29.5
+              HCoV-OC43     P36334                 50.0                      46.6                            46.4                     30.2
+identical in all 8 sequences: 7 positions: Phe898, Leu916, Gln920, Ile923, Ala924, Phe927, Tyr1067
+identical in the 5 sarbecoviruses (SARS-CoV-2, three bat, SARS-CoV): 14 positions
+MERS-CoV: differences at Met902->I, Gln926->K, Met1050->V, Thr1066->G, Ala1070->S
+HCoV-HKU1 (N5): differences at Ala899->S, Met902->V, Gln926->A, Met1050->L, Val1065->F, Thr1066->S, Ala1070->T, Phe1109->Y
+HCoV-OC43: differences at Ala899->Y, Met902->V, Gln926->A, Met1050->I, Val1065->F, Thr1066->S, Ala1070->T, Phe1109->Y

@@ -1,0 +1,9 @@
+Virus	UniProt	pocket_identity_pct	S2_816_1154_identity_pct	S2_outside_pocket_identity_pct	full_spike_identity_pct
+SARS-CoV-2 (Wuhan-Hu-1)	P0DTC2	100.0	100.0	100.0	100.0
+Bat RaTG13	A0ABF7PLN6	100.0	99.7	99.7	97.4
+Bat WIV1	U5WI05	87.5	90.9	91.0	76.9
+Bat RsSHC014	U5WLK5	87.5	90.9	91.0	77.1
+SARS-CoV	P59594	87.5	91.2	91.3	76.1
+MERS-CoV	K9N5Q8	68.8	46.3	45.2	30.6
+HCoV-HKU1 (N5)	Q0ZME7	50.0	45.1	44.9	29.5
+HCoV-OC43	P36334	50.0	46.6	46.4	30.2

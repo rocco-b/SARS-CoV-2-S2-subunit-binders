@@ -1,0 +1,1 @@
+queried on 2026-11-20; LAPIS 0.9.1; dataVersion 1795172405; sars_cov-2_nextstrain_open on lapis.cov-spectrum.org at 2026-11-20T17:07:22.357099078; minProportion 5e-05

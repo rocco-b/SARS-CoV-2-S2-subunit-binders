@@ -1,0 +1,9 @@
+Virus	UniProt	Identical	Similar	Different	Identity, 16 pocket residues (%)	Identity, S2 region 816-1154 (%)	Identity, S2 region outside the pocket (%)
+SARS-CoV-2 (Wuhan-Hu-1)	P0DTC2	16	0	0	100.0	100.0	100.0
+Bat RaTG13	A0ABF7PLN6	16	0	0	100.0	99.7	99.7
+Bat WIV1	U5WI05	14	1	1	87.5	90.9	91.0
+Bat RsSHC014	U5WLK5	14	1	1	87.5	90.9	91.0
+SARS-CoV	P59594	14	1	1	87.5	91.2	91.3
+MERS-CoV	K9N5Q8	11	4	1	68.8	46.3	45.2
+HCoV-HKU1 (N5)	Q0ZME7	8	5	3	50.0	45.1	44.9
+HCoV-OC43	P36334	8	4	4	50.0	46.6	46.4

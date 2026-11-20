@@ -1,0 +1,9 @@
+chains ['A', 'B', 'C'] n heavy 7827
+ligand 1830 heavy atoms 33 COM-to-pocket-centroid 1.95
+ligand 1864 heavy atoms 33 COM-to-pocket-centroid 1.29
+A ASN283: Calpha-to-pocket-centroid 26.8 A; ND2-to-centroid 27.7; min heavy-atom dist to any pocket-residue heavy atom 13.2 (ND2 only 15.1, nearest PHE294); ND2-ligand 1830: 21.9 A; ND2-ligand 1864: 19.6 A; 
+B ASN283: Calpha-to-pocket-centroid 30.0 A; ND2-to-centroid 33.3; min heavy-atom dist to any pocket-residue heavy atom 19.1 (ND2 only 23.4, nearest PHE83); ND2-ligand 1830: 27.9 A; ND2-ligand 1864: 26.1 A; 
+C ASN283: Calpha-to-pocket-centroid 49.1 A; ND2-to-centroid 50.6; min heavy-atom dist to any pocket-residue heavy atom 39.9 (ND2 only 41.3, nearest PHE294); ND2-ligand 1830: 49.2 A; ND2-ligand 1864: 48.5 A; 
+A ASN 319 (N1134): ND2 to pocket centroid 40.1; min dist to pocket heavy atoms 25.2
+B ASN 319 (N1134): ND2 to pocket centroid 26.1; min dist to pocket heavy atoms 16.9
+C ASN 319 (N1134): ND2 to pocket centroid 50.5; min dist to pocket heavy atoms 43.6
